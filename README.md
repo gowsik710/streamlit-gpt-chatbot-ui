@@ -32,5 +32,4 @@ This project is a simple AI chatbot created using **Streamlit** and **OpenAI's G
 
 ---
 
-## 📂 Folder Structure
 
